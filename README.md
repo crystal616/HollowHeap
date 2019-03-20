@@ -3,7 +3,7 @@ Hollow Heap Priority Queue
 
 Tasks:
 
-1. Create the visual space and interactive environment for the user;
+1. Create the visual space and interactive environment for the user; use circle of 3 colors and random size as the object;
 2. Establish 3 hollow heap priority queues of the multi-root version — one for each color;
 3. Establish a hollow heap priority queue of the single root version containing all objects in priority order by size;
 4. Create the initial selection of random-sized and colored objects to be initially placed by the user (they do not need to be placed in the priority queues)
